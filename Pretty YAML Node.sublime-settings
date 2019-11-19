@@ -1,0 +1,15 @@
+{
+  "use_entire_file_if_no_selection" : true,
+  "node_path": "/usr/bin/node",
+  "dumper_args": {
+    "lineWidth": 120,
+    "sortKeys": true,
+    "noArrayIndent": true,
+    "indent": 2,
+    "skipInvalid": false,
+    "flowLevel": -1,
+    "noRefs": false,
+    "noCompatMode": false,
+    "condenseFlow": false
+  }
+}
